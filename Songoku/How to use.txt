@@ -1,0 +1,5 @@
+			Nhấn A/D để di chuyển trái, phải
+			Nhấn W để nhảy
+			Nhấn J để chưởng (2c/lần)
+			Nhấn K để combo
+			Nhấn L để gồng saiyan

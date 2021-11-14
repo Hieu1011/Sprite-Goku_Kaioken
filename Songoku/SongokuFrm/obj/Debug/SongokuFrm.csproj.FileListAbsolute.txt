@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\Songoku\SongokuFrm\bin\Debug\SongokuFrm.exe.config
+C:\Users\Administrator\source\repos\Songoku\SongokuFrm\bin\Debug\SongokuFrm.exe
+C:\Users\Administrator\source\repos\Songoku\SongokuFrm\bin\Debug\SongokuFrm.pdb
+C:\Users\Administrator\source\repos\Songoku\SongokuFrm\obj\Debug\SongokuFrm.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Songoku\SongokuFrm\obj\Debug\SongokuFrm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\Songoku\SongokuFrm\obj\Debug\SongokuFrm.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Songoku\SongokuFrm\obj\Debug\SongokuFrm.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Songoku\SongokuFrm\obj\Debug\SongokuFrm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Songoku\SongokuFrm\obj\Debug\SongokuFrm.exe
+C:\Users\Administrator\source\repos\Songoku\SongokuFrm\obj\Debug\SongokuFrm.pdb
+C:\Users\Administrator\source\repos\Songoku\SongokuFrm\obj\Debug\SongokuFrm.Form1.resources
+C:\Users\Administrator\source\repos\Songoku\SongokuFrm\obj\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\source\repos\Songoku\SongokuFrm\obj\Debug\SongokuFrm.csproj.ResolveComReference.cache
