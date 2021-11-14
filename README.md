@@ -1,2 +1,2 @@
-# Sprite-Goku_Kaioken
+# Sprite Goku_Kaioken
 Cre: Atula
